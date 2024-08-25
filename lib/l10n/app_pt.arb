@@ -1,0 +1,10 @@
+{
+  "@@locale": "pt",
+  "title": "Placar da Partida",
+  "team1": "Time 1",
+  "team2": "Time 2",
+  "freeThrow": "Lance livre",
+  "twoPoints": "2 Pontos",
+  "threePoints": "3 Pontos",
+  "undo": "Desfazer última jogada"
+}
